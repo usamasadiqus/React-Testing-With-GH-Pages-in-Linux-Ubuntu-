@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/main.4fe985e0.chunk.js",
+    "main.js.map": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/main.4fe985e0.chunk.js.map",
+    "runtime-main.js": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/runtime-main.963bd781.js",
+    "runtime-main.js.map": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/runtime-main.963bd781.js.map",
+    "static/js/2.19c99f37.chunk.js": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/2.19c99f37.chunk.js",
+    "static/js/2.19c99f37.chunk.js.map": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/2.19c99f37.chunk.js.map",
+    "static/js/3.7be4691a.chunk.js": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/3.7be4691a.chunk.js",
+    "static/js/3.7be4691a.chunk.js.map": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/3.7be4691a.chunk.js.map",
+    "index.html": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.19c99f37.chunk.js.LICENSE.txt": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/js/2.19c99f37.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Testing-With-GH-Pages-in-Linux-Ubuntu-/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.963bd781.js",
+    "static/js/2.19c99f37.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.4fe985e0.chunk.js"
+  ]
+}
